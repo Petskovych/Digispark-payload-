@@ -1,4 +1,4 @@
-# Digispark
+# Digispark (payload)
 The ATTINY85 developer board is designed for device development with minimal peripheral requirements and the ability to automatically connect to a computer's USB interface for programming and debugging.  
 
 # Characteristics:
@@ -14,3 +14,9 @@ Indicators: power, status (Pin0) (можна впливати на роботу 
 # Сonnection
 Digispark працює з USB 1.1 і USB 2.0, проте слід мати на увазі, що в деяких випадках може знадобитися адаптер або кабель для забезпечення сумісності, якщо виникають проблеми зі з'єднанням. Цю особливість я виявив коли підєднував його до usb 3.0.  
 
+# Payloads
+Регулюйте затримку для коректної роботи програми, також після виконання програми світиться другий індикатор, при необхідності це можна забрати для оптимізації коду.
+На мою думку це найлекше що можна писати на c++.
+Майте на увазі що команда в Shell прописується приблизно 30 секунд. 
+Згодом я розширю цей репозиторій, і додам ще корисного навантаження з коментаріями до коду.     
+ 
