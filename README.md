@@ -1,5 +1,7 @@
 # Digispark (payload)
 The ATTINY85 developer board is designed for device development with minimal peripheral requirements and the ability to automatically connect to a computer's USB interface for programming and debugging.  
+![image](https://github.com/Petskovych/Digispark/assets/147243488/cd2f72f6-9f76-4887-b81d-f041d4d1452c)
+
 
 # Characteristics:
 Microcontroller: ATTINY85
